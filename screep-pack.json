@@ -1,0 +1,6 @@
+{
+    "output_directory": "ScreepPackOutput",
+    "flatten_separator": ".",
+    "screeps_folder": "src",
+    "ignore_files": ["version.js"]
+}
