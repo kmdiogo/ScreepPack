@@ -24,7 +24,7 @@ The screep-pack.json file contains all configuration options. The parameters are
 - output_directory: The directory where the flattened screep files will be sent
 - flatten_separator: What character the flattener will use to separate directories. For example, if flatten_separator is '.', then
 the file located in path 'Roles/Harvester.js' will be flattened to the file name 'Roles.Harvester'
-- screeps_folder The root directory of where your Screeps source code resides
+- screeps_folder: The root directory of where your Screeps source code resides
 - ignore_files: An array of names of files to ignore
 
 ## Running the script
